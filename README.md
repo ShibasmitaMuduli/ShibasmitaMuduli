@@ -1,7 +1,7 @@
 - 👋 Hi, I am Shibasmita Muduli
 - 👀 I am interested in: Full Stack Web Development
-- 💞️I have already learned HTML, CSS, C, C++
-- 🌱 I am currently learning: JAVA, Python
+- 💞️I have already learned HTML, CSS, C, C++, JAVA, MySQL
+- 🌱 I am currently learning: Python
 - 💞️ I am looking to collaborate on - Angular, React, Node.js
 - 📫 How to reach me: shibasmitamuduli18@gmail.com
 
