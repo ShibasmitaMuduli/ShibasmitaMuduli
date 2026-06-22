@@ -3,7 +3,7 @@
 - 💞️I have already learned JAVA, HTML, CSS, JS, C, C++, Hibernate, Spring Springboot, MySQL
 - 🌱 I am currently learning: Angular
 - 💞️ I am looking to collaborate on - Angular, React, Docker
-- 📫 How to reach me: shibasmitamuduli18@gmail.com
+- 📫 How to reach me: shibasmita5@gmail.com
 
 <!---
 ShibasmitaMuduli/ShibasmitaMuduli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
